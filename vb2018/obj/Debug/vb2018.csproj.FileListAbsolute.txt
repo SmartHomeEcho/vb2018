@@ -1,0 +1,7 @@
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\C#\Labdarugo vb2018\vb2018\vb2018\bin\Debug\vb2018.exe.config
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\C#\Labdarugo vb2018\vb2018\vb2018\bin\Debug\vb2018.exe
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\C#\Labdarugo vb2018\vb2018\vb2018\bin\Debug\vb2018.pdb
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\C#\Labdarugo vb2018\vb2018\vb2018\obj\Debug\vb2018.csprojAssemblyReference.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\C#\Labdarugo vb2018\vb2018\vb2018\obj\Debug\vb2018.csproj.CoreCompileInputs.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\C#\Labdarugo vb2018\vb2018\vb2018\obj\Debug\vb2018.exe
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\C#\Labdarugo vb2018\vb2018\vb2018\obj\Debug\vb2018.pdb
